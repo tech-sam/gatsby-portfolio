@@ -5,12 +5,12 @@
   </a>
 </p>
 <h1 align="center">
-  Cade Kynaston's Portfolio
+  Sumit's Portfolio
 </h1>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3ffe71b5-c404-4b2c-83a3-ca0db6cb14e0/deploy-status)](https://app.netlify.com/sites/cade/deploys)
 
-My personal website I created using Gatsby, React and Netlify. [Check it out!](https://cade.codes)
+My personal website I created using Gatsby, React and Netlify. [Check it out!](http://sumit.tech)
 
 ## Features
 I used the [`gatsby-transformer-json`](https://www.gatsbyjs.org/packages/gatsby-transformer-json/) Gatsby plugin to query the data for the site from the json folder in `/src/` and then build the site accordingly.
@@ -29,8 +29,8 @@ Building this site was a great opportunity to become more familiar with React ho
 - [Google Analytics](https://analytics.google.com/analytics/web/)
 - [Formsy React](https://github.com/christianalfoni/formsy-react)
 
-## Acknlowledgements 
-Check out [Brittany Chiang's Portfolio](https://brittanychiang.com/). Her site heavily inspired my design and feel.
+<!-- ## Acknlowledgements 
+Check out [Brittany Chiang's Portfolio](https://brittanychiang.com/). Her site heavily inspired my design and feel. -->
 
 
 
