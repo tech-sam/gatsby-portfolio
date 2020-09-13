@@ -1,11 +1,11 @@
 [
   {
     "intro": "Hi, I'm",
-    "name": "Cade Kynaston.",
-    "copy": "I'm a Software Engineer at",
-    "company": "Clearlink.",
-    "companyURL": "https://www.clearlink.com",
-    "subtitle": "Software Developer",
-    "subCopy": "I'm currently focused on using React and Gatsby to create extremely fast and responsive websites."
+    "name": "Sumit.",
+    "copy": "I'm a Tech Lead at",
+    "company": "Greytip.",
+    "companyURL": "https://www.greythr.com/",
+    "subtitle": "Full Stack Software Developer",
+    "subCopy": "I'm currently focused on writing highly scalable web applications."
   }
 ]

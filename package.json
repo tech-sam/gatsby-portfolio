@@ -3,7 +3,7 @@
   "private": true,
   "description": "",
   "version": "0.1.0",
-  "author": "Cade Kynaston <cadekynaston@gmail.com>",
+  "author": "Sumit Sharma<sumit.s7325@gmail.com>",
   "dependencies": {
     "@emotion/core": "^10.0.10",
     "@emotion/styled": "^10.0.10",

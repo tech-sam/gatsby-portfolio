@@ -10,7 +10,7 @@ const Head = styled.header`
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  background-color: ${props => props.bgColor ? props.bgColor : theme.colors.darkBlue };
+  background-color: ${props => props.bgColor ? props.bgColor : theme.colors.darkBlue};
   padding-left: 1rem;
   padding-right: 1rem;
 
@@ -78,9 +78,9 @@ const Header = ({ data, bgColor }) => {
     setTimeout(() => setIsMounted(true), 1000)
   }, []);
 
-  const one = () => <HeaderSubCopy style={{ transitionDelay: '100ms', color:'white' }}>{data.intro}</HeaderSubCopy>;
+  const one = () => <HeaderSubCopy style={{ transitionDelay: '100ms', color: 'white' }}>{data.intro}</HeaderSubCopy>;
   const two = () => <HeaderText style={{ transitionDelay: '200ms' }}>{data.name}</HeaderText>;
-  const three = () => <HeaderCopy style={{ transitionDelay: '300ms' }}>{data.copy} <HeaderLink href="https://www.clearlink.com" target="_blank"> {data.company}</HeaderLink></HeaderCopy>;
+  const three = () => <HeaderCopy style={{ transitionDelay: '300ms' }}>{data.copy} <HeaderLink href="https://www.greythr.com/" target="_blank" rel="noopener noreferrer"> {data.company}</HeaderLink></HeaderCopy>;
   const four = () => <HeaderSubCopy style={{ transitionDelay: '400ms' }}>{data.subCopy}</HeaderSubCopy>;
 
   const items = [one, two, three, four];
@@ -88,15 +88,15 @@ const Header = ({ data, bgColor }) => {
   return (
     <Head bgColor={bgColor}>
       <Container>
-          <TransitionGroup>
-            {isMounted &&
-              items.map((item, i) => (
-                <CSSTransition key={i} classNames="fadeup" timeout={3000}>
-                  {item}
-                </CSSTransition>
-              ))
-            }
-          </TransitionGroup>
+        <TransitionGroup>
+          {isMounted &&
+            items.map((item, i) => (
+              <CSSTransition key={i} classNames="fadeup" timeout={3000}>
+                {item}
+              </CSSTransition>
+            ))
+          }
+        </TransitionGroup>
       </Container>
     </Head>
   )
