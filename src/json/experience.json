@@ -1,39 +1,42 @@
 [
   {
-    "company": "@Clearlink",
-    "dates": "January 2018 — Current",
-    "position": "Software Engineer",
-    "copy": "At Clearlink I am helping to create a custom CMS using Gatsby and Contentful. I was promoted from a front end developer position where I would create SEO driven websites to generate new customers for our brand partners.",
+    "company": "@Greytip Software",
+    "dates": "January 2019 — Current",
+    "position": "Tech Lead",
+    "copy": "At Greytip I am helping to create high quality, scalable applications.",
     "jobFeatures": [
+      "Microservices",
+      "AWS",
+      "Java",
+      "SpringBoot",
+      "JavaScript",
+      "Angular",
+      "Python",
+      "Kubernetes",
+      "Docker",
       "Gatsby",
-      "React",
-      "Handlebars",
-      "PHP",
-      "Sketch",
-      "Contentful",
-      "Jira",
-      "SCSS"
+      "Postgres",
+      "JPA & Hibernate"
     ],
     "open": true
   },
   {
-    "company": "@Calldrip",
-    "dates": "July 2017 — January 2018",
-    "position": "Software Developer",
-    "copy": "Calldrip is a small software company based in Utah. I functioned as a full stack developer helping them to add features and improve their web-based customer lead generation software.",
+    "company": "@Greytip Software",
+    "dates": "July 2017 — January 2019",
+    "position": "Senior Software Engineer",
+    "copy": "I functioned as a full stack developer helping them to add features and cleared the tech debts.",
     "jobFeatures": [
-      "PHP",
       "jQuery",
-      "Google Cloud Platform",
-      "Trello",
-      "MySQL",
-      "HelpScout",
-      "Bitbucket"
+      "Java",
+      "AngularJs",
+      "SpringMVC",
+      "Postgres",
+      "Redis"
     ],
     "open": false
   },
   {
-    "company": "@Hill Air Force Base",
+    "company": "@Greytip Software",
     "dates": "May 2016 — July 2017",
     "position": "Software Engineering Intern",
     "copy": "I worked for the United States Air Force as a civilian during college. I worked for the software maintenance group working on f-16's.",
@@ -47,7 +50,7 @@
     "open": false
   },
   {
-    "company": "@Weber State University",
+    "company": "@Greytip Software",
     "dates": "December 2015 — May 2016",
     "position": "Software Development Intern",
     "copy": "My first dev job. I did customer support and added small features and tweaks to Chitester, Weber State's own testing software. It was my first opportunity to work with a large existing production codebase.",
