@@ -7,12 +7,13 @@
     "jobFeatures": [
       "Microservices",
       "AWS",
-      "Java",
+      "Docker",
+      "Kubernetes",
+      "ELK",
       "SpringBoot",
       "JavaScript",
       "Angular",
-      "Python",
-      "Kubernetes",
+      "Redis",
       "Docker",
       "Gatsby",
       "Postgres",
@@ -26,41 +27,43 @@
     "position": "Senior Software Engineer",
     "copy": "I functioned as a full stack developer helping them to add features and cleared the tech debts.",
     "jobFeatures": [
-      "jQuery",
+      "Python",
+      "Django",
       "Java",
       "AngularJs",
       "SpringMVC",
-      "Postgres",
-      "Redis"
+      "Postgres"
     ],
     "open": false
   },
   {
     "company": "@Greytip Software",
     "dates": "May 2016 — July 2017",
-    "position": "Software Engineering Intern",
-    "copy": "I worked for the United States Air Force as a civilian during college. I worked for the software maintenance group working on f-16's.",
+    "position": "Software Engineer",
+    "copy": "I worked mostly on supporting and fixing production issues.",
     "jobFeatures": [
-      "Security Clearance",
-      "ADA",
-      "Python",
       "Java",
-      "Linux"
+      "ExtJs",
+      "freemarker",
+      "JSP",
+      "Servlet"
     ],
     "open": false
   },
   {
     "company": "@Greytip Software",
-    "dates": "December 2015 — May 2016",
-    "position": "Software Development Intern",
-    "copy": "My first dev job. I did customer support and added small features and tweaks to Chitester, Weber State's own testing software. It was my first opportunity to work with a large existing production codebase.",
+    "dates": "September 2014 — May 2016",
+    "position": "Java Developer",
+    "copy": "It was my first opportunity to work with a large existing production codebase.",
     "jobFeatures": [
-      "ColdFusion",
-      "Node",
-      "MySQL",
-      "Asana",
+      "Git",
+      "Bugzilla",
+      "Java",
+      "JSP",
       "HTML",
-      "JavaScript"
+      "JavaScript",
+      "CSS",
+      "SQL"
     ],
     "open": false
   }
