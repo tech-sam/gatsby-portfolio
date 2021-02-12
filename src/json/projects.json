@@ -1,33 +1,26 @@
 [
   {
-    "title": "Establish Design",
+    "title": "Take a walk with OAuth 2.0",
     "classes": "featured feature-1",
-    "description": "A site I helped create for a client to show off their architectural and interior designs. We ended up migrating the site from Netlify CMS to Contentful after realizing that Contentful would be a better match for our needs.",
+    "description": "A detail explanation and need for OAuth 2.0 and OpenId protocol with simplification of jargons and terminologies.",
     "techList": [
-      "Gatsby",
-      "Contentful",
-      "Netlify CMS",
-      "Emotion",
-      "Netlify"
+      "OAuth 2.0",
+      "authentication",
+      "security"
     ],
-    "img": "establish-design-logo.jpg",
-    "siteLink": "https://establishdesign.com/",
+    "img": "oauth2.0.png",
+    "siteLink": "https://dev.to/tech_sam/introduction-to-oauth-2-0-1an2/",
     "featured": true
   },
   {
-    "title": "Vuer",
+    "title": " Let's revisit Java",
     "classes": "project",
-    "description": "My first Vue application. I wanted to learn Vue so I created this GitHub profile viewing app.",
+    "description": "It's been 6 years from now since Java 8 was released and people are still not able to digest the features of it",
     "techList": [
-      "Vue",
-      "Bulma",
-      "Charts,js",
-      "Bulma",
-      "Moment.js"
+      "Java"
     ],
-    "img": "vue-logo.png",
-    "codeLink": "https://github.com/cadekynaston/vuer",
-    "siteLink": "https://vuer.now.sh/?u=cadekynaston",
+    "img": "java-logo.jpg",
+    "siteLink": "https://dev.to/tech_sam/let-s-revisit-java-in-2019-3o8c",
     "featured": false
   },
   {

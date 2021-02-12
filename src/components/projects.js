@@ -116,7 +116,7 @@ class Projects extends React.Component {
       <Section bgColor={theme.colors.light} id="projects">
         <Element name="projects" />
         <Container>
-          <Title ref='title'>Projects.</Title>
+          <Title ref='title'>Blogs.</Title>
           <ProjectGrid>
             {projectsJSX}
           </ProjectGrid>

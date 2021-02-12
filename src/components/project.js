@@ -64,7 +64,7 @@ const Title = styled.h4`
 const Description = styled.p`
  max-width: 100%;
  text-align: left;
- margin-bottom: 15px;
+ margin-bottom: 20px;
  color: ${theme.colors.darkLight};
 
   a {
@@ -159,14 +159,14 @@ const Project = React.forwardRef(({ icon, title, classes, description, techList,
           <ProjectLinks className='project-links'>
               { siteLink !== 'null' &&
                 <ProjectLink className='first' href={siteLink} target='_blank'>
-                  Visit Site ›
+                  Visit Blog ›
                 </ProjectLink>
               }
-              { codeLink !== 'null' &&
+              {/* { codeLink !== 'null' &&
                 <ProjectLink href={codeLink} target='_blank'>
                   View Code ›
                 </ProjectLink>
-              }
+              } */}
             </ProjectLinks>
           <TechList items={techList} />
         </div>
