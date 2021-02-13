@@ -5,8 +5,8 @@
     "description": "A detail explanation and need for OAuth 2.0 and OpenId protocol with simplification of jargons and terminologies.",
     "techList": [
       "OAuth 2.0",
-      "authentication",
-      "security"
+      "Authentication",
+      "Security"
     ],
     "img": "oauth2.0.png",
     "siteLink": "https://dev.to/tech_sam/introduction-to-oauth-2-0-1an2/",
@@ -24,67 +24,50 @@
     "featured": false
   },
   {
-    "title": "Utah Pumpkins",
+    "title": "Performance matters",
     "classes": "project",
-    "description": "Every year my family grows and carves hundreds of pumpkins so I wanted to build a site to show them off. It was also a great opportunity to become more familiar with Contentful.",
+    "description": "Sometimes a small change in your code can make a significant amount of performance improvement.",
     "techList": [
-      "Contentful",
-      "Gatsby",
-      "React",
-      "Netlify",
-      "Emotion",
-      "GraphQL"
+      "Java",
+      "Performance",
+      "Optional",
+      "Coding"
     ],
-    "img": "utah-pumpkins.png",
-    "codeLink": "https://github.com/cadekynaston/utah-pumpkins",
-    "siteLink": "https://www.utahpumpkins.com/",
+    "img": "java-optional-logo.png",
+    "siteLink": "https://dev.to/tech_sam/performance-matters-2l69",
     "featured": false
   },
   {
-    "title": "Connect 4 React",
+    "title": "API Security",
     "classes": "project",
-    "description": "A game I created to become more familiar with React and using state.",
+    "description": "Today the majority of modern web applications running on browsers and most of you know how it works HTML, CSS, javascript, etc. ",
     "techList": [
-      "React",
-      "Github Pages",
-      "React Color Picker",
-      "Google Analytics"
+      "Security",
+      "JWT",
+      "Authentication",
+      "Authorization"
     ],
-    "img": "react-connect-4.png",
-    "codeLink": "https://github.com/cadekynaston/connect4-react",
+    "img": "api-security.png",
+    "codeLink": "",
     "siteLink": "https://cadekynaston.github.io/connect4-react/",
     "featured": false
   },
   {
-    "title": "Calldrip",
+    "title": "I am done with the fake people",
     "classes": "feature-2 featured",
-    "description": "While working at Calldrip I helped create a product called Dynamic Numbers which would dynamically show each unique visitor to our clients website a unique phone number. Those phone numbers could then be tracked for precise customer tracking.",
-    "techList": [
-      "PHP",
-      "MySQL",
-      "Google Cloud Platform",
-      "Bootstrap",
-      "Google Charts",
-      "Bitbucket"
-    ],
-    "img": "phone-green.png",
-    "siteLink": "https://www.calldrip.com/",
+    "description": "Bob Marley once said people be hated when they are real and loved when they are fake.",
+    "techList": [],
+    "img": "medium-people-blog.png",
+    "siteLink": "https://medium.com/@tech_sam/i-am-done-with-the-fake-people-50d5a7adf73a",
     "featured": true
   },
   {
-    "title": "Clearlink",
+    "title": "One day or day one !!",
     "classes": "project",
-    "description": "At Clearlink I've worked on an assortment of sites including <a href='https://www.vivintsource.com/' target='_blank'>Vivint Source</a>, <a href='https://www.usdish.com/' target='_blank'>USDISH</a>, <a href='https://www.yourlocalsecurity.com/' target='_blank'>Your Local Security</a>, and <a href='https://www.frontierbundles.com/' target='_blank'>Frontier Bundles</a>.",
-    "techList": [
-      "PHP",
-      "Handlebars.js",
-      "Sketch",
-      "SCSS",
-      "Jira",
-      "GitHub"
-    ],
-    "img": "clearlink.jpeg",
-    "siteLink": "https://www.greythr.com/",
+    "description": "I am not what I think I am, and I am not what you think I am. I am what I think you think I am.",
+    "techList": [],
+    "img": "one-day.png",
+    "siteLink": "https://medium.com/@tech_sam/one-day-or-day-one-274e6578cf9f",
     "featured": false
   }
 ]
