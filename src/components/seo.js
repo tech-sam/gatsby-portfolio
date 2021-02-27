@@ -57,13 +57,13 @@ function SEO({ lang, meta, keywords, title }) {
           "itemListElement": [{
             "@type": "ListItem",
             "position": 1,
-            "name": "Cade.Codes",
-            "item": "https://cade.codes"
+            "name": "Sumit.Tech",
+            "item": "https://sumit.tech"
           },{
             "@type": "ListItem",
             "position": 2,
             "name": "Home",
-            "item": "https://cade.codes"
+            "item": "https://sumit.tech"
           }]
         }
       `}</script>
